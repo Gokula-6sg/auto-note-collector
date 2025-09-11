@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Notes</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 10px; width: 300px; }
+        h3 { margin-top: 0; }
+        .note { border-bottom: 1px solid #ccc; margin-bottom: 8px; padding-bottom: 5px; }
+        small { color: gray; font-size: 12px; }
+        #controls { margin-bottom: 10px; }
+        button { margin-right: 5px; padding: 4px 8px; }
+        input { width: 100%; padding: 5px; margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+<h3>Saved Notes</h3>
+
+
+<input type="text" id="search" placeholder="Search notes...">
+
+
+<div id="controls">
+
+        <button id="clearBtn">Clear All</button>
+        <button id="exportTxtBtn">Export TXT</button>
+        <button id="exportCsvBtn">Export CSV</button>
+    </div>
+
+
+
+
+<div id="notes"></div>
+
+<script src="popup.js"></script>
+</body>
+</html>

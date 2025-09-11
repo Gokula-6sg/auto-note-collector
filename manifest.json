@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Note Collector",
+  "version": "1.0",
+  "description": "Save highlighted text into notes with one click.",
+  "permissions": ["storage", "contextMenus"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
