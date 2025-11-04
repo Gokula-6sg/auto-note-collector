@@ -25,6 +25,17 @@ A beautiful and productivity-focused Chrome Extension that lets you save, organi
 
 ---
 
+## Screenshots
+
+<img width="1115" height="510" alt="Screenshot 2025-11-04 143757" src="https://github.com/user-attachments/assets/e112ceae-df83-4b57-b3ac-20ef02c0549e" />
+
+<img width="1919" height="1072" alt="Screenshot 2025-11-04 143830" src="https://github.com/user-attachments/assets/c85116c3-e0ca-48d8-a693-173344e44596" />
+
+
+<img width="648" height="673" alt="Screenshot 2025-11-04 143843" src="https://github.com/user-attachments/assets/971f3c85-1a33-45c9-add7-a93e24b68424" />
+
+
+
 ##  Export Formats
 
 | Format | Description |
